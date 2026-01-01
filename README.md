@@ -87,6 +87,11 @@
 </div>
 
 <br/>
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/gagan27x/gagan27x/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions Snake" />
+</div>
 
 ## 📈 Contribution Graph
 
